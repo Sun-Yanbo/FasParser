@@ -38,7 +38,8 @@ A computer software package called FasParser has been developed for manipulating
 7. active the scroll bar in the `Align` window;
 8. improve ID preview function for `Filter`;
 9. optimized codes, especially for `CMP2Seq`(2018-2-5)
-10.fix a little GUI errors in `CMP2Seq` (2018-2-7)
+10. fix a little GUI errors in `CMP2Seq` (2018-2-7)
+11. improve the result display for `CMP2Align` (2018-2-7)
 
 [Version 2.2.0] 2018-01-10
 1. improve interface display
