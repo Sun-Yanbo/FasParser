@@ -40,6 +40,9 @@ A computer software package called FasParser has been developed for manipulating
 9. optimized codes, especially for `CMP2Seq`(2018-2-5)
 10. fix a little GUI errors in `CMP2Seq` (2018-2-7)
 11. improve the result display for `CMP2Align` (2018-2-7)
+12. fix a small error in selecting files in `AA2DNA` (2018-2-11)
+13. change file extension to '.fasta' in default; (2018-2-27)
+14. improve the result viewing function (when no viewing tool installed); (2018-2-27)
 
 [Version 2.2.0] 2018-01-10
 1. improve interface display
