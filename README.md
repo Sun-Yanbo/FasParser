@@ -22,7 +22,7 @@ A computer software package called FasParser has been developed for manipulating
 ### [Citation]: ###
  
 1. **Sun Yan-Bo** FasParser: a package for manipulating sequence data. ***Zoological Research*** 38(2): 110-112, 2017
-2. **Sun Yan-Bo** FasParser2: a graphical platform for batch manipulation of biological sequences. ***Under review***
+2. **Sun Yan-Bo** FasParser2: a graphical platform for batch manipulation of biological sequences. ***In Press***
  
 ----------
  
@@ -43,6 +43,7 @@ A computer software package called FasParser has been developed for manipulating
 12. fix a small error in selecting files in `AA2DNA` (2018-2-11)
 13. change file extension to '.fasta' in default; (2018-2-27)
 14. improve the result viewing function (when no viewing tool installed); (2018-2-27)
+15. optimize codes (2018-2-28)
 
 [Version 2.2.0] 2018-01-10
 1. improve interface display
