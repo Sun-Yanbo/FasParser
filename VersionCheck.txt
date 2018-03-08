@@ -1,2 +1,2 @@
-CurrentVersion	FasParser 2.3.0 (20180301)
-SetupProgram	https://raw.githubusercontent.com/Sun-Yanbo/FasParser/master/FasParser2.3.0_setup.exe
+CurrentVersion	FasParser 2.3.0 (20180308)
+SetupProgram	https://github.com/Sun-Yanbo/autoSeqMan/releases/download/v2.3.0/FasParser2.3.0_setup.exe
