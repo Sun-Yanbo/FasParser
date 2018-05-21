@@ -1,0 +1,123 @@
+[Version 2.4.0] 2018-5-10
+	1. add two methods to extract segregating sites with a batch mode;
+	2. add `ID` module to perform parsing analyses on IDs;
+	3. improve some GUI display to meet high DPI;
+	4. add a function to extract 4-degenerate sites in `Align`;(2018-5-14)
+	5. improve running process display (2018-5-21)
+
+[Version 2.3.1] 2018-3-20
+	1. add aligner parameter setting function;
+	2. fix an important error in `Primer` design; (2018-3-21)
+	3. optimized some codes for running on Windows 10; (2018-3-21)
+	4. edit the citation display (2018-3-22)
+	5. change the width of main window for good display in some pc (2018-3-27)
+	6. improve the `Sim` function (2018-3-30)
+	7. improve the UI display under high DPI (maybe not stable) (2018-3-30)
+	8. improve the `Trim` function with better output display (2018-4-8)
+	9. add 'auto_check_update' function when start up the program (2018-4-8)
+
+[Version 2.3.0] 2018-1-30
+	1. add `AA2DNA` to obtain codon alignments based on aa alignments;
+	2. change all buttons 'Scan' to 'Open'; (2018-2-5)
+	3. add result display as well as result viewing function by double click;
+	4. add 'Delete' operation on selected files 
+	(useful for transforming one function's outputs to another function's inputs)
+	5. add automated gap-deletion in template DNA for primer design;
+	6. Clear the primer results when starting a new primer design; (2018-2-5)
+	7. active the scroll bar in the `Align` window;
+	8. improve ID preview function for `Filter`;
+	9. optimized codes, especially for `CMP2Seq`(2018-2-5)
+	10.fix a little GUI errors in `CMP2Seq` (2018-2-7)
+	11.improve the result display for `CMP2Align` (2018-2-7)
+	12.fix a small error in selecting files in `AA2DNA` (2018-2-11)
+	13.change file extension to '.fasta' in default; (2018-2-27)
+	14.improve the result viewing function (when no viewing tool installed); (2018-2-27)
+	15.optimize codes (2018-2-28 & 2018-3-8)
+
+[Version 2.2.0] 2018-01-10
+	1. improve interface display
+	2. move the `classification` function to `Filter` (Based on keywords)
+	3. add drag-function to selecte files into the list box [2018-1-11]
+	4. fix errors in selecting files when there have been files in the listbox [2018-1-11]
+	5. add new auto-update function [2018-1-11]
+	6. greatly improve the `Sort & Rename` function for easy to use [2018-1-15]
+	7. fix UI (radiobutton) errors in `Merge` [2018-1-15]
+	8. fix errors in filtration based on keywords [2018-1-15]
+	9. improve update checking function [2018-1-15]
+	10.add folder-drag function to selecte multiple files [2018-1-15]
+
+[Version 2.1.1] 2017-12-07
+	1. fix errors in `Filter` based on length;
+	2. improve usability of `Filter` based on similarity
+	3. improve global settings (tmp folder, associate suffix...)
+	4. add 'Merge' and 'Concatenate' functions in `Merge` function
+	5. improve `Sort` functions; change rename IDs by setting '=>'
+	6. auto fresh the view of 2 sequences after align
+	7. add deleting empty columns ("-" for all seqs) in alignments (20171217)
+	8. improve similarity estimate by considering RevCmp seq in `Filter` (20171217) 
+	9. improve `Filter` function based on similarity (20171218)
+	10. improve similarity estimate by considering indels (for `AlignSim` and `Filter`) (20171218)
+	11. improve `Filter` function based on ID (showing more result information; 20171220)
+	12. improve `Filter` function based on similarity when input sequences too long (20171221)
+	13. edit the user guide (20171225)
+	14. fix bugs of closing window when it is running (20171226)
+	15. improve `Filter` function based on IDs to show more running process information (20171226)
+	16. remove the symbol "'" in nexus output of `Format` (20180104);
+	17. fix errors in `Sort` when ">" present in ID (20180109)
+
+[Version 2.1.0] 2017-11-16
+	1. add filtration based on similarity
+	2. optimize codes for AlignTrim
+	3. improve classification function
+
+[Version 2.0.0] 2017-10-20
+	1. Redesign the GUI
+	2. Add Text Editor for FasParser
+	3. Add GeneStructre drawer function
+	4. Add AlignTrim & AlignScore functions
+	5. Add batch sort & classification function
+	6. Add Primer designning function (with Primer3)
+	7. Add Positive selection detection (with PAML)
+	8. Add Bug report function
+
+[Version 1.2.2] 2017-06-20
+	1. fix a small error in `MergeFas`
+	2. fix a UI error
+	3. change too long sequence (`MergeFas` output) to mul-lines 
+
+[Version 1.2.1] 2017-05-23
+	1. add auto-update function
+	2. speed-up the filter functions
+
+[Version 1.2.0] 2017-05-17
+	1. add Align&Compare function in 'Cmp-2Seq': can handle 2 unaligned sequences;
+	2. fix bugs in dn/ds estimate when seq length not multiples of 3;
+	3. fix bugs in format convertion when folder name has space(s);
+	4. fix some UI errors;
+	5. improve sort function with seq Length (descending or ascending);
+	6. improve the display of some results
+
+[Version 1.1.0] 2017-03-28
+	1. add the getORF function into this package;
+	2. orf can be get according to ref pep seq(s);
+	3. optimize some subfunctions;
+	4. fix some GUI errors;
+	5. improve the GAP-cut function in Fas-Filter;
+
+[Version 1.0.2] 2017-03-22
+	1. improve the sort function with user provided ID list;
+	2. improve the extraction function for large FASTA file;
+	3. add Clear buttons for convenient operation;
+	4. optimize codes (flexibility and simplicity);
+	5. fix some bugs
+	6. add version check function;
+	7. improve align function for folder with space(s)
+
+[Version 1.0.1] 2017-03-11
+	1. add classification function in the "Sort-ID" section;
+	2. add ID-rename function in "Sort-ID" section;
+	3. improve the alignment cut function in "Fas-Filter" section ;
+	4. improve the alignment filtration based on seq length;
+	5. fix some UI bugs
+
+[Version 1.0.0] 2017-02-28
