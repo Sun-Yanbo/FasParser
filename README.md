@@ -26,4 +26,4 @@ I hope this package will be helpful for a broad audience, particularly those wit
 ### [Citation]: ###
  
 1. **Sun Yan-Bo** FasParser: A Package for Manipulating Sequence Data. ***Zoological Research*** 38(2): 110-112, 2017
-2. **Sun Yan-Bo** FasParser2: A Graphical Platform for Batch Manipulation of Tremendous Amount of Sequence Data. ***Bioinformatics*** **In Press**, 2018
+2. **Sun Yan-Bo** FasParser2: A Graphical Platform for Batch Manipulation of Tremendous Amount of Sequence Data. ***Bioinformatics*** 34(14):2493-2495, 2018
