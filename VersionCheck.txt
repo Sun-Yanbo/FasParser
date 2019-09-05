@@ -1,2 +1,2 @@
-CurrentVersion	FasParser 2.9.0 (20190830)
+CurrentVersion	FasParser 2.9.0 (20190905)
 SetupProgram	https://github.com/Sun-Yanbo/FasParser/releases/download/v2.9.0/FasParser2.9.0_setup_full.zip
