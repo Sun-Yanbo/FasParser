@@ -1,2 +1,2 @@
 CurrentVersion	FasParser 2.9.0 (20190910)
-SetupProgram	https://gitee.com/biosunyb/FasParser/attach_files/274551/download
+SetupProgram	https://github.com/Sun-Yanbo/FasParser/releases/download/v2.9.0/FasParser2.9.0_setup_full.zip
