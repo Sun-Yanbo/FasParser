@@ -9,7 +9,7 @@ I hope this package will be helpful for a broad audience, particularly those wit
  
 ![image](https://github.com/Sun-Yanbo/FasParser/blob/master/Figures/Homepage.jpg)
  
-**Sun Yan-Bo** (*sunyanbo@mail.kiz.ac.cn*)
+**Sun Yan-Bo** (*290155027@qq.com*)
  
 **Kunming Institute of Zoology, Chinese Academy of Sciences**
  
