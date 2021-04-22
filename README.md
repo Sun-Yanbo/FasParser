@@ -1,17 +1,18 @@
-# FasParser2
-#### A graphical platform for batch manipulation of biological sequences data ####
+# FasParser V2
+#### A Graphical Platform for Batch Manipulation of Biological Sequences Data ####
  
 A computer software package called `FasParser` has been developed for manipulating sequence data. It can be used on personal computers to perform a series of analyses, including counting and viewing differences between two sequences at both DNA and codon levels, identify overlapping regions between two alignments, sort sequences according to their IDs or lengths, concatenate multiple loci sequences for a particular set of samples, translate DNA to protein, construct alignments with multiple different formats, and also some extraction and filtration analyses on a particular FASTA file. Majority of these functions can be run in a batch mode that is much useful for analyzing large data sets. 
 
-An updated version `FasParser2` has been released, featuring numerous improvements with sets of novel functions that can facilitate sequence manipulation. Its main additional features include (i) re-designed graphical interface which greatly improves its capability for batch processing, (ii) a trimming function to strip poorly-aligned regions in multiple sequence alignments, (iii) a series of functions that can identify as well as remove 'bad' sequence (either too short or too divergent sequences), (iv) an Editor tool for viewing and editing of biological sequences, and (vi) interfaces (with other programs) for detection of positive selection as well as primer design.
+An updated version `FasParser` has been released, featuring numerous improvements with sets of novel functions that can facilitate sequence manipulation. Its main additional features include (i) re-designed graphical interface which greatly improves its capability for batch processing, (ii) a trimming function to strip poorly-aligned regions in multiple sequence alignments, (iii) a series of functions that can identify as well as remove 'bad' sequence (either too short or too divergent sequences), (iv) an Editor tool for viewing and editing of biological sequences, and (vi) interfaces (with other programs) for detection of positive selection as well as primer design.
 
 I hope this package will be helpful for a broad audience, particularly those without programming experience in sequence analyses. 
  
 ![image](https://github.com/Sun-Yanbo/FasParser/blob/master/Figures/Homepage.jpg)
  
 **Sun Yan-Bo** (*290155027@qq.com*)
- 
-**Kunming Institute of Zoology, Chinese Academy of Sciences**
+**FasParser QQ Group** (*795861591*)
+
+**Yunnan University, Kunming, Yunnan, China**
  
 ----------
  
@@ -29,4 +30,4 @@ I hope this package will be helpful for a broad audience, particularly those wit
 2. **Sun Yan-Bo** FasParser2: A Graphical Platform for Batch Manipulation of Tremendous Amount of Sequence Data. ***Bioinformatics*** 34(14):2493-2495, 2018
 
 ### [Donate the author]: ###
-![image](https://github.com/Sun-Yanbo/FasParser/blob/master/Figures/Wechat.png)
+![image](https://github.com/Sun-Yanbo/FasParser/blob/master/Figures/Wechat.jpg)
